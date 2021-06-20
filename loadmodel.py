@@ -1,3 +1,5 @@
+#https://github.com/flyingwolfz/holoencoder-python-version
+#https://github.com/THUHoloLab/Holo-encoder
 import torch
 from torch import nn, optim
 import cv2
