@@ -7,6 +7,8 @@ Instead, we use band-limited ASM （from"Band-Limited Angular Spectrum Method fo
 
 Pretrained model is included, you can test the network in "loadmodel.py".
 
+The result is far from satisfaction, although it looks fine when the image is small.
+
 python版holoencoder(来自"High-speed computer-generated holography  using an autoencoder-based deep neural network").使用pytorch.
 
 Unet部分与THUHoloLab的matlab版相同（https://github.com/THUHoloLab/Holo-encoder ）。
@@ -14,3 +16,5 @@ Unet部分与THUHoloLab的matlab版相同（https://github.com/THUHoloLab/Holo-e
 衍射计算使用带限角谱（来自"Band-Limited Angular Spectrum Method for Numerical Simulation of Free-Space Propagation in Far and Near Fields"）。损失函数是MSE。
 
 包含已经训练好的模型，在“loadmodel.py”中可以测试。
+
+效果还差很多，因为成像很小，所以成像看起来还行。
