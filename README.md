@@ -1,4 +1,11 @@
 # holoencoder-python-version
+
+new version will be found in:
+
+新版本在这里：
+
+https://github.com/flyingwolfz/CNN-CGH
+
 unofficial python version of holoencoder (from "High-speed computer-generated holography  using an autoencoder-based deep neural network"). pytorch is used.
 
 the Unet is same as the official matlab version from THUHoloLab(https://github.com/THUHoloLab/Holo-encoder)
