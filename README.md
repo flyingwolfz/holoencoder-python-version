@@ -1,7 +1,5 @@
 # holoencoder-python-version
 
-p
-
 unofficial python version of holoencoder (from "High-speed computer-generated holography  using an autoencoder-based deep neural network"). pytorch is used.
 
 the Unet is almost same as the official matlab version from THUHoloLab(https://github.com/THUHoloLab/Holo-encoder)
