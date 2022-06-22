@@ -18,4 +18,4 @@ Unet部分与THUHoloLab官方的matlab版几乎相同（https://github.com/THUHo
 PSNR和SSIM比原来的论文高一点。
 
 
-
+![捕获](https://user-images.githubusercontent.com/57349703/175008808-c254a22e-359e-480c-a9f9-ec03a64c3172.PNG)
