@@ -1,6 +1,6 @@
 # holoencoder-python-version
 
-please use "holoencoder-new" directly.
+p
 
 unofficial python version of holoencoder (from "High-speed computer-generated holography  using an autoencoder-based deep neural network"). pytorch is used.
 
@@ -10,7 +10,6 @@ Instead, we use band-limited ASM （from"Band-Limited Angular Spectrum Method fo
 
 PSNR and SSIM is a little higher than original paper.
 
-更新了，新版直接放在“holoencoder-new”文件夹了
 
 非官方python版holoencoder(来自"High-speed computer-generated holography  using an autoencoder-based deep neural network").使用pytorch.
 
